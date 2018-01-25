@@ -1,4 +1,6 @@
 # sys
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fsys.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fsys?ref=badge_shield)
+
 
 This repository holds supplemental Go packages for low-level interactions with
 the operating system.
@@ -16,3 +18,7 @@ this repository, see https://golang.org/doc/contribute.html.
 The main issue tracker for the sys repository is located at
 https://github.com/golang/go/issues. Prefix your issue with "x/sys:" in the
 subject line, so it is easy to find.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fsys.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fsys?ref=badge_large)
